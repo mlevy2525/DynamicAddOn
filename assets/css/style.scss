@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  display:inline-flex;
+  !display:inline-flex;
 }
