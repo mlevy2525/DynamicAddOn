@@ -4,5 +4,11 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  !display:inline-flex;
+  !display:flex;
+}
+
+.section{
+  !width: 100%
+  padding-left:100;
+  padding-right:100;
 }
