@@ -59,13 +59,38 @@ We now take these tools and combine them to create our full dynamic planner.
 
 #### Finding Interest Points
 
-![Panel 2/3](/img/interest_points.png)
+<div class="row">
+    <div class="column">
+    <img src="img/interest_points.png" alt="Snow" style="width:100%">
+  </div>
+    <div class="column">
+    <p> ADD TEXT  </p>
+  </div>
+</div>
 
 #### Selecting the Intermediate Goal
 
-![Panel 2/3](/img/panel_2_3.png)
+<div class="row">
+    <div class="column">
+    <img src="img/panel_2_3.png" alt="Snow" style="width:100%">
+  </div>
+    <div class="column">
+    <p> ADD TEXT  </p>
+  </div>
+</div>
+
 
 #### Replannning
+
+<div class="row">
+    <div class="column">
+    <img src="img/panel_4_5.png" alt="Snow" style="width:100%">
+  </div>
+    <div class="column">
+    <p> ADD TEXT  </p>
+  </div>
+</div>
+
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
