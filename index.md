@@ -76,7 +76,8 @@ We now take these tools and combine them to create our full dynamic planner.
     <img src="img/panel_2_3.png" alt="Snow" style="width:100%">
   </div>
     <div class="column">
-    <p> ADD TEXT  </p>
+    <p> Now, we calculate the ETA to each to each of the interest points and then look at where the ball will be according to the forecasted trajectory when the arm would reach each of the interest points.Using this we select the intermediate goal, which is the point along the forecasted trajectory that is closest to its matching interest point. We are trying to select a new goal location where we know the arm will be able to reach a nearby point in time so we estimate the arm can reach this new goal location in time as well.
+  </p>
   </div>
 </div>
 
