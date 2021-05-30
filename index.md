@@ -25,9 +25,11 @@ In order to find the intermediate goal we will need two additional tools, a Traj
 
 ### Estimated Time of Arrival(ETA) Network
 
+<p style="width: 500px;">
+<img src="img/eta.png" alt="ETA Network Heatmap" style="float: right;" />
 The goal of this network is to determine how long it will take the arm from a specific position to "arrive" at a specific location on the table. To do this we use a simple Multi-Layer Perceptron Network. We discretize the ETA window of 500 time steps into 100 bins (e.g., 0-4 steps, 5-9 steps, etc.). In order to figure out which of these bins a state falls into we structure our network with 3 linear layers each with a ReLu activation network and a final layer which is also linear and outputs a probability to 100 different buckets using softmax. The output can be seen in the image below where red represents the locations the arms will reach the soonest and yellow represents the locations the arm will take the longest to reach.
+</p>
 
-<img src="img/eta.png" alt="ETA Network Heatmap" width="200"/>
 &nbsp;
 &nbsp;
 
