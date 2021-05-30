@@ -89,7 +89,8 @@ We now take these tools and combine them to create our full dynamic planner.
     <img src="img/panel_4_5.png" alt="Snow" style="width:100%">
   </div>
     <div class="column">
-    <p> ADD TEXT  </p>
+    <p> Finally we show a re-plan. Our approaches differs from many robotics approaches because we do not replan at each step. Instead we re-plan on a calculated interval. It is easy to see that as the arm gets closer to the ball the ball will move less before the arm can reach is so our box will get smaller allowing the network to select more and more accurate goal locations as the episode goes on until the ball is properly trapped.
+ </p>
   </div>
 </div>
 
