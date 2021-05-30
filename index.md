@@ -50,5 +50,13 @@ In order to find the intermediate goal we will need two additional tools, a Traj
   </div>
 </div>
 
+
+### Dynamic Planner
+We now take these tools and combine them to create our full dynamic planner.
+
+##### Finding Interest Points
+
+##### Selecting the Intermediate Goal
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
