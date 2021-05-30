@@ -9,7 +9,7 @@ In this paper, we address the task of interacting with dynamic environments wher
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 \
-\
+
 
 ### Intermediate Goals
 
@@ -20,7 +20,7 @@ The key behind our paper is in the introducton of an intermediate goal. We take 
 In order to find the intermediate goal we will need two additional tools, a Trajectory Forecasting Network and an Estimated Time of Arrival Network.
 
 \
-\
+
 
 ### Estimated Time of Arrival(ETA) Network
 
@@ -28,7 +28,7 @@ The goal of this network is to determine how long it will take the arm from a sp
 
 ![ETA Network](/img/eta.png)
 \
-\
+
 
 ### Trajectory Forecasting Network
 
