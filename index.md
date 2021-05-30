@@ -64,7 +64,8 @@ We now take these tools and combine them to create our full dynamic planner.
     <img src="img/interest_points.png" alt="Snow" style="width:100%">
   </div>
     <div class="column">
-    <p> ADD TEXT  </p>
+    <p> We begin by predicting a new trajectory, the dotted line on the left, and finding the ETA from the current arm location to the current location of the ball. Both the current location of the arm and the current location of the ball can be seen in the middle image. Next we find the point where the ball will be when the arm reaches the current location of the ball. This can be seen on the right, essentially if we do not change the goal state and the arm keeps moving toward its original goal where will the ball be when the arm arrives. We now observe the distance, seen in green, between these two points. We are looking for how far the ball will move before the arm reaches the table. Once we have this distance we use it to draw a box around the current location of the ball and select the four corners as “interest points” for our next step
+  </p>
   </div>
 </div>
 
