@@ -43,10 +43,10 @@ In order to find the intermediate goal we will need two additional tools, a Traj
 
 <div class="row">
   <div class="column">
-    <img src="img/static.gif" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
     <p> We opt for a faster, albeit potentially less accurate,approach than most trajectory forecasting approaches currently being used in Computer Science. We modeled our approach on the paper "Convolutional Neural Network for Trajectory Prediction." Our method requires little knowledge about the actual environment and tries to predict F steps into the future given H steps of past information, where F >> H. Therefore,we sacrifice some accuracy to gain a real-time long-horizon prediction. This is necessary because, unlike in autonomous driving, the episode happens in a very short period of time. We  cannot  wait  to  gather  a  lot  of  prior  experience.  In  ourspecific  example,  we  use 24 steps  of  prior  information  to predict 300 steps of future information.  </p>
+  </div>
+    <div class="column">
+    <img src="img/static.gif" alt="Snow" style="width:100%">
   </div>
 </div>
 
