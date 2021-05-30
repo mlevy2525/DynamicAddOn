@@ -91,6 +91,9 @@ We now take these tools and combine them to create our full dynamic planner.
   </div>
 </div>
 
+We put all of this together to get the following:
+![Static vs Dynamic Planer](/img/intermediate-goals.png)
+
 &nbsp;
 &nbsp;
 
