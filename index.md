@@ -7,5 +7,9 @@ In this paper, we address the task of interacting with dynamic environments wher
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
+The key behind our paper is in the introducton of an intermediate goal. We take a normal static planner, which "observes" a state and goal at each step and then lay a planner on top of it which modifies the goal location so that the planner can function for a dynamic object.
+
+![Sicherung vorbereiten](/img/static_vs_dynamic.png)
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
