@@ -58,5 +58,7 @@ We now take these tools and combine them to create our full dynamic planner.
 
 ##### Selecting the Intermediate Goal
 
+##### Replannning
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
