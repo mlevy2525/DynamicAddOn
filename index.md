@@ -59,6 +59,8 @@ We now take these tools and combine them to create our full dynamic planner.
 
 #### Finding Interest Points
 
+![Panel 2/3](/img/interest_points.png)
+
 #### Selecting the Intermediate Goal
 
 ![Panel 2/3](/img/panel_2_3.png)
