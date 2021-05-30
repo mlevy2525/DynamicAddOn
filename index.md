@@ -91,6 +91,10 @@ We now take these tools and combine them to create our full dynamic planner.
   </div>
 </div>
 
+&nbsp;
+&nbsp;
+
+### Results
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
