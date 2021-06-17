@@ -111,7 +111,7 @@ We opt for a faster, albeit potentially less accurate,approach than most traject
 ### Dynamic Planner
 We now take these tools and combine them to create our full dynamic planner.
 
-&nbsp;
+
 #### Finding Interest Points
 
  <p> We begin by predicting a new trajectory, the dotted line on the left, and finding the ETA from the current arm location to the current location of the ball. Both the current location of the arm and the current location of the ball can be seen in the middle image. Next we find the point where the ball will be when the arm reaches the current location of the ball. This can be seen on the right, essentially if we do not change the goal state and the arm keeps moving toward its original goal where will the ball be when the arm arrives. We now observe the distance, seen in green, between these two points. We are looking for how far the ball will move before the arm reaches the table. Once we have this distance we use it to draw a box around the current location of the ball and select the four corners as “interest points” for our next step
@@ -132,7 +132,7 @@ We now take these tools and combine them to create our full dynamic planner.
   </div>
 </div> --->
 
-&nbsp;
+
 #### Selecting the Intermediate Goal
 <p> Now, we calculate the ETA to each to each of the interest points and then look at where the ball will be according to the forecasted trajectory when the arm would reach each of the interest points.Using this we select the intermediate goal, which is the point along the forecasted trajectory that is closest to its matching interest point. We are trying to select a new goal location where we know the arm will be able to reach a nearby point in time so we estimate the arm can reach this new goal location in time as well. </p>
 ![Intermediate Goal](/img/panel_2_3.png)
@@ -151,7 +151,7 @@ We now take these tools and combine them to create our full dynamic planner.
 </div>
  --->
 
-&nbsp;
+
 #### Replannning
 <p> Finally we show a re-plan. Our approaches differs from many robotics approaches because we do not replan at each step. Instead we re-plan on a calculated interval. It is easy to see that as the arm gets closer to the ball the ball will move less before the arm can reach is so our box will get smaller allowing the network to select more and more accurate goal locations as the episode goes on until the ball is properly trapped.</p>
 ![Replanning](/img/panel_4_5.png)
