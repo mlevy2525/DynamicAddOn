@@ -87,7 +87,7 @@ The goal of this network is to determine how long it will take the arm from a sp
 We opt for a faster, albeit potentially less accurate,approach than most trajectory forecasting approaches currently being used in Computer Science.
 
 
-<img src="img/static.gif" alt="Snow" style="width:100%; padding-left:20%">
+<img src="img/static.gif" alt="Snow" style="width:auto; padding-left:20%">
 
 
 <!--- <div class="row">
