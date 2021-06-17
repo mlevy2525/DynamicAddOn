@@ -39,9 +39,9 @@ In this paper, we address the task of interacting with dynamic environments wher
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
+<!-- &nbsp;
 &nbsp;
-&nbsp;
-
+ -->
 <!-- ### Intermediate Goals
 
 The key behind our paper is in the introducton of an intermediate goal. We take a normal static planner, which "observes" a state and goal at each step and then lay a planner on top of it which modifies the goal location so that the planner can function for a dynamic object.
@@ -53,6 +53,9 @@ In order to find the intermediate goal we will need two additional tools, a Traj
 &nbsp;
 &nbsp; -->
 
+&nbsp;
+<hr>
+&nbsp;
 
 ### Estimated Time of Arrival(ETA) Network
 
