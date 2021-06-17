@@ -12,7 +12,7 @@ youtubeId2: DfP0bJOIU5g
     </div>
   <div class="column-three">
     <div class="vertical-center">
-    <h5> Vasista <br/> Ayyagari </h5>
+    <h5> Vasista Ayyagari </h5>
   </div>
     </div>
     <div class="column-three">
