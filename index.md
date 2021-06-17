@@ -195,3 +195,15 @@ We put all of this together to get the following:
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+&nbsp;
+<hr>
+&nbsp;
+
+### Paper
+
+<p>
+M Levy, V Ayyagari, A Shrivastava
+No-frills Dynamic Planning Using Static Planners
+ICRA, 2021. 
+</p>
+
