@@ -207,3 +207,5 @@ No-frills Dynamic Planning Using Static Planners <br/>
 ICRA, 2021. <br/>
 </h5>
 
+<h5><a href="https://mlevy2525.github.io/DynamicAddOn/files/bibtex.txt">[Bibtex]</a></h5>
+
