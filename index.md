@@ -21,6 +21,8 @@ youtubeId2: DfP0bJOIU5g
     </div>
 </div>
 
+<h5><a href="https://mlevy2525.github.io/files/DynamicPlanningAddOn.pdf">[Paper]</a></h5>
+
 ![Static vs Dynamic Planer](/img/static-vs-dynamic.png)
 
 &nbsp;
