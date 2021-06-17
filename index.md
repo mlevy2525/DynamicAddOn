@@ -24,6 +24,7 @@ youtubeId2: DfP0bJOIU5g
 ![Static vs Dynamic Planer](/img/static-vs-dynamic.png)
 
 &nbsp;
+<hr>
 &nbsp;
 
 ### Abstract
@@ -31,6 +32,7 @@ youtubeId2: DfP0bJOIU5g
 In this paper, we address the task of interacting with dynamic environments where the changes in the environment are independent of the agent. We study this through the context of trapping a moving ball with a UR5 robotic arm. Our key contribution is an approach to utilize a static planner for dynamic tasks using a Dynamic Planning add-on; that is, if we can successfully solve a task with a static target, then our approach can solve the same task when the target is moving. Our approach has three key components: an off-the-shelf static planner, a trajectory forecasting network, and a network to predict robot's estimated time of arrival at any location. We demonstrate the generalization of our approach across environments.
 
 &nbsp;
+<hr>
 &nbsp;
 
 ### Video
@@ -69,6 +71,7 @@ In order to find the intermediate goal we will need two additional tools, a Traj
 
 
 &nbsp;
+<hr>
 &nbsp;
 
 
@@ -89,6 +92,7 @@ In order to find the intermediate goal we will need two additional tools, a Traj
 
 
 &nbsp;
+<hr>
 &nbsp;
 
 ### Dynamic Planner
@@ -145,11 +149,13 @@ We now take these tools and combine them to create our full dynamic planner.
 
 
 &nbsp;
+<hr>
 &nbsp;
 We put all of this together to get the following:
 ![Static vs Dynamic Planer](/img/intermediate-goals.png)
 
 &nbsp;
+<hr>
 &nbsp;
 
 ### Results
