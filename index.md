@@ -7,17 +7,17 @@ youtubeId2: DfP0bJOIU5g
     <div class="column-three"><h3>&nbsp;</h3></div>
   <div class="column-three">
     <div class="vertical-center">
-    <h5><a href="https://mlevy2525.github.io/"> Mara Levy </a></h5>
+    <h5><a href="https://mlevy2525.github.io/"> Mara <br/> Levy </a></h5>
   </div>
     </div>
   <div class="column-three">
     <div class="vertical-center">
-    <h5> Vasista Ayyagari </h5>
+    <h5> Vasista <br/> Ayyagari </h5>
   </div>
     </div>
     <div class="column-three">
     <div class="vertical-center">
-    <h5><a href="http://www.cs.umd.edu/~abhinav/"> Abhinav Shrivastava </a></h5>
+    <h5><a href="http://www.cs.umd.edu/~abhinav/"> Abhinav <br/> Shrivastava </a></h5>
   </div>
     </div>
   <div class="column-three"><h3>&nbsp;</h3></div>
