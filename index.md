@@ -201,9 +201,9 @@ We put all of this together to get the following:
 
 ### Paper
 
-<p>
-M Levy, V Ayyagari, A Shrivastava
-No-frills Dynamic Planning Using Static Planners
-ICRA, 2021. 
-</p>
+<h3>
+M Levy, V Ayyagari, A Shrivastava \n
+No-frills Dynamic Planning Using Static Planners \n
+ICRA, 2021. \n
+</h3>
 
