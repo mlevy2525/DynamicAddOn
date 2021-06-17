@@ -6,17 +6,17 @@ youtubeId2: DfP0bJOIU5g
 <div class="row">
   <div class="column-three">
     <div class="vertical-center">
-    <h3> Mara Levy </h3>
+    <h5> Mara Levy </h5>
   </div>
     </div>
   <div class="column-three">
     <div class="vertical-center">
-    <h3> Vasista Ayyagari </h3>
+    <h5> Vasista Ayyagari </h5>
   </div>
     </div>
     <div class="column-three">
     <div class="vertical-center">
-    <h3> Abhinav Shrivastava </h3>
+    <h5> Abhinav Shrivastava </h5>
   </div>
     </div>
 </div>
