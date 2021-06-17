@@ -1,0 +1,6 @@
+@inproceedings{levy2021-no-frills,
+  title={No-frills Dynamic Planning using Static Planners},
+  author={Levy, Mara and Ayyagari, Vasista and Shrivastava, Abhinav},
+  booktitle={ICRA},
+  year={2021}
+}
