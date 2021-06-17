@@ -25,8 +25,6 @@ youtubeId2: DfP0bJOIU5g
 
 <h5><a href="https://mlevy2525.github.io/files/DynamicPlanningAddOn.pdf">[Paper]</a></h5>
 
-![Static vs Dynamic Planer](/img/static-vs-dynamic.png)
-
 &nbsp;
 <hr>
 &nbsp;
@@ -43,9 +41,16 @@ In this paper, we address the task of interacting with dynamic environments wher
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
-<!-- &nbsp;
 &nbsp;
- -->
+<hr>
+&nbsp;
+
+### Intermediate Goals
+
+The key behind our paper is in the introducton of an intermediate goal. We take a normal static planner, which "observes" a state and goal at each step and then lay a planner on top of it which modifies the goal location so that the planner can function for a dynamic object.
+
+![Static vs Dynamic Planer](/img/static-vs-dynamic.png)
+
 <!--- ### Intermediate Goals
 
 The key behind our paper is in the introducton of an intermediate goal. We take a normal static planner, which "observes" a state and goal at each step and then lay a planner on top of it which modifies the goal location so that the planner can function for a dynamic object.
