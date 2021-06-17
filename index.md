@@ -60,6 +60,8 @@ In order to find the intermediate goal we will need two additional tools, a Traj
 ### Estimated Time of Arrival(ETA) Network
 
 The goal of this network is to determine how long it will take the arm from a specific position to "arrive" at a specific location on the table.
+
+
 ![ETA](/img/eta.png)
 
 <!--- <div class="row">
@@ -83,6 +85,8 @@ The goal of this network is to determine how long it will take the arm from a sp
 
 ### Trajectory Forecasting Network
 We opt for a faster, albeit potentially less accurate,approach than most trajectory forecasting approaches currently being used in Computer Science.
+
+
 ![Trajectory Forecasting](/img/static.gif)
 
 
