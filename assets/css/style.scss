@@ -71,3 +71,13 @@ p {
   clear: both;
   display: table;
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(min-content, 1fr));
+}
+.item {
+  padding: 0 1rem;
+  text-align: center;
+  border: 1px dashed #000;
+}
