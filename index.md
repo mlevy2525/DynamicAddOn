@@ -30,7 +30,6 @@ youtubeId2: DfP0bJOIU5g
     <li><h5> Vasista Ayyagari </h5></li>
     <li><h5><a href="http://www.cs.umd.edu/~abhinav/"> Abhinav Shrivastava </a></h5></li>
 </ul>
-    <div class="column-four"><h3>&nbsp;</h3></div>
 </div>
 
 
