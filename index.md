@@ -3,7 +3,7 @@ youtubeId: wKjiwAjrXgo
 youtubeId2: DfP0bJOIU5g
 ---
 
-<div class="row">
+<!--- <div class="row">
     <div class="column-four"><h3>&nbsp;</h3></div>
   <div class="column-three">
     <div class="vertical-center">
@@ -21,6 +21,12 @@ youtubeId2: DfP0bJOIU5g
   </div>
     </div>
   <div class="column-four"><h3>&nbsp;</h3></div>
+</div> --->
+
+<div class="grid">
+  <div class="item"><h5><a href="https://mlevy2525.github.io/"> Mara Levy </a></h5></div>
+  <div class="item"><h5> Vasista Ayyagari </h5></div>
+  <div class="item"><a href="http://www.cs.umd.edu/~abhinav/"> Abhinav Shrivastava </a></div>
 </div>
 
 <h5><a href="https://mlevy2525.github.io/files/DynamicPlanningAddOn.pdf">[Paper]</a></h5>
