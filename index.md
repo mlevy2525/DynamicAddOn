@@ -23,11 +23,15 @@ youtubeId2: DfP0bJOIU5g
   <div class="column-four"><h3>&nbsp;</h3></div>
 </div>  --->
 
+<div class="row">
+    <div class="column-four"><h3>&nbsp;</h3></div>
 <ul class="menu">
     <li><h5><a href="https://mlevy2525.github.io/"> Mara Levy </a></h5></li>
     <li><h5> Vasista Ayyagari </h5></li>
     <li><h5><a href="http://www.cs.umd.edu/~abhinav/"> Abhinav Shrivastava </a></h5></li>
 </ul>
+    <div class="column-four"><h3>&nbsp;</h3></div>
+</div>
 
 
 <h5><a href="https://mlevy2525.github.io/files/DynamicPlanningAddOn.pdf">[Paper]</a></h5>
